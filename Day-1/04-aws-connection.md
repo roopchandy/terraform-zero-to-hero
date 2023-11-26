@@ -9,6 +9,7 @@ Make sure you have the AWS CLI installed on your machine. You can download and i
 2. **Create an AWS IAM User**:
 
 To interact with AWS programmatically, you should create an IAM (Identity and Access Management) user with appropriate permissions. Here's how to create one:
+https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-2_f3f60fb1ae8e4e8d&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=85KHo_vdYhvzgEICJCZ9IDCFp9g4PrZ8XpwzZKFBCpI&code_challenge_method=SHA-256
 
 a. Log in to the AWS Management Console with an account that has administrative privileges.
 
